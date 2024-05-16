@@ -7,7 +7,7 @@
     width: 100%;
 }
 #vid-b {
-    width: 80%;
+    width: 100%;
     position: relative;
     margin: 0 auto; /* position이 relative일 때 가로 정렬 방법, 좌우 여백을 자동으로 동일하게 적용 */
 }
