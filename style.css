@@ -83,17 +83,19 @@ header 영역 - 로고, 메인메뉴
     padding-bottom: 60px;
     /*background-color: bisque;*/
 }
-#선업튀 {
+#seul {
     position: relative;
-    width: 100%;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 300px;
 }
-#선업튀 img {
+#seul img {
     width: 100%;
 }
 #main-text {
     position: relative;
     font-family: "Pretendard-Regular";
-    font-size: 24px;
+    font-size: 18px;
     line-height: 300%;
     /*background-color: blanchedalmond;*/
 }
@@ -102,8 +104,6 @@ header 영역 - 로고, 메인메뉴
     text-align: center;
     font-size: 16px;
 }
-
-
 
 /* -----------------------------------------------------------------------
 미디어 쿼리(media query) - 반응형 웹 구현
